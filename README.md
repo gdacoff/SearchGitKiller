@@ -38,7 +38,6 @@
 <div align="center">
 
   <img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/0964adb5-7151-4207-86f6-f1eab3bd4f87" />
-  <img src="https://via.placeholder.com/600x300.png?text=Скриншот+Результатов+Поиска" alt="Search Results" width="400"/>
 </div>
 
 ## 🔒 Исходный код и Авторские права
