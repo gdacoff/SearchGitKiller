@@ -38,6 +38,7 @@
 <div align="center">
 
   <img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/0964adb5-7151-4207-86f6-f1eab3bd4f87" />
+  <img width="1280" height="720" alt="2026-10-02 14-09-40" src="https://github.com/user-attachments/assets/0b733bbd-56ac-4482-8dca-63b9f94ad50f" />
 </div>
 
 ## 🔒 Исходный код и Авторские права
