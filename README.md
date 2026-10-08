@@ -3,7 +3,7 @@
   <!-- <img src="ссылка_на_картинку" width="800" alt="SearchGitKiller Banner"> -->
   
   <h1>🌐 SearchGitKiller</h1>
-  <p><b>Умная поисковая система для GitHub</b></p>
+  <p><b>Smart search engine for GitHub</b></p>
 
   <!-- Бейджи со стеком технологий (замени/удали ненужные) -->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -18,20 +18,20 @@
 
 ---
 
-## 📝 О проекте
+## 📝 About the project
 
-**SearchGitKiller** — это современный веб-сервис, решающий главную проблему стандартного поиска: необходимость знать точное название проекта. 
+**SearchGitKiller** — This is a modern web service that solves the main problem of standard search: the need to know the exact name of the project.. 
 
-Мой сервис позволяет находить нужные репозитории на GitHub, используя лишь **примерное описание функционала** с помощью векторов. Пользователю достаточно описать своими словами, что должна делать программа, и алгоритм подберет наиболее релевантные проекты из отборной базы данных.
+My service allows you to find the right GitHub repositories using only a **rough description** of the functionality using vectors. The user simply describes in their own words what the program should do, and the algorithm will select the most relevant projects from a curated database.
 
-## ✨ Ключевые особенности
+## ✨ Key Features
 
-*   🔍 **Семантический поиск:** Ищет суть, а не точные совпадения слов.
-*   🎨 **Проработанный UI/UX:** Интуитивно понятный и стильный интерфейс с плавными анимациями, созданный для максимального удобства пользователя.
-*   ⚡ **Высокая производительность:** Быстрый отклик и мгновенная выдача результатов.
-*   📱 **Адаптивный дизайн:** Сайт отлично выглядит и работает как на ПК, так и на мобильных устройствах (в дополнение к отдельному приложению).
+*   🔍 **Semantic Search:** Looks for the essence, not exact word matches.
+*   🎨 **Refined UI/UX:** Intuitive and stylish interface with smooth animations, designed for maximum user convenience.
+*   ⚡ **High performance:** Fast response and instant results.
+*   📱 **Responsive design:** The site looks and works great on both desktop and mobile devices (in addition to a separate app).
 
-## 📸 Галерея (Интерфейс)
+## 📸 Gallery (Interface)
 
 <div align="center">
 
@@ -39,13 +39,13 @@
   <img width="1280" height="720" alt="2026-10-02 14-09-40" src="https://github.com/user-attachments/assets/0b733bbd-56ac-4482-8dca-63b9f94ad50f" />
 </div>
 
-## 🔒 Исходный код и Авторские права
+## 🔒 Source Code and Copyright
 
-Данный репозиторий является **портфолио-витриной**. 
+This repository serves as a **portfolio showcase**.
 
-Весь исходный код проекта (frontend и backend архитектура) является проприетарным и **скрыт** в приватном репозитории для защиты интеллектуальной собственности. 
+All project source code (frontend and backend architecture) is proprietary and **hidden** in a private repository to protect intellectual property.
 
-Связь для заказов:
+For orders, please contact:
 
 <!-- ССЫЛКИ НА СВЯЗЬ (скопированы из твоего профиля) -->
 <a href="https://discord.com/users/846024512611942401">
@@ -54,5 +54,5 @@
 
 ---
 <div align="center">
-  <i>Разработано с ❤️ от <b>KillerZero</b></i>
+  <i>Designed with ❤️ by <b>KillerZero</b></i>
 </div>
