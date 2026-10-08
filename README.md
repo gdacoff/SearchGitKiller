@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <!-- Пример бэкенда, если использовал -->
   
   <br><br>
-  <img src="https://img.shields.io/badge/Статус-Завершен-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Исходный_код-Закрыт-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Source_code-Closed-red?style=for-the-badge" />
 </div>
 
 ---
